@@ -1,0 +1,17 @@
+{
+  "name": "things-portal-display",
+  "authors": [
+    "Hatio Lab"
+  ],
+  "description": "use for portal display: image or text",
+  "main": "things-portal-display",
+  "license": "MIT",
+  "homepage": "https://github.com/ThingsElements/things-portal-display",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
