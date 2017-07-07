@@ -1,13 +1,13 @@
 {
   "name": "things-portal-display",
-  "version": "v0.0.1",
+  "version": "2.2.0",
   "authors": [
     "Hatio Lab"
   ],
   "description": "use for portal display: image or text",
   "main": "things-portal-display",
-  "license": "MIT",
-  "homepage": "https://github.com/ThingsElements/things-portal-display",
+  "license": "http://license.hatiolab.com/EULA",
+  "homepage": "http://elements.hatiolab.com/",
   "ignore": [
     "**/.*",
     "node_modules",
