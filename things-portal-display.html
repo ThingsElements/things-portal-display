@@ -2,6 +2,9 @@
 @license
 Copyright © HatioLab Inc. All rights reserved.
 -->
+
+<link rel="import" href="../things-i18n-msg/things-i18n-msg.html">
+
 <link rel="import" href="../polymer/polymer.html">
 
 <dom-module id="things-portal-display">
@@ -12,7 +15,8 @@ Copyright © HatioLab Inc. All rights reserved.
   </style>
 
   <template>
-    <div>Portal Display</div>
+    <things-i18n-msg msgid="label.mobile_slogan" msg="{{labelSlogan}}" auto hidden>掌控生产</things-i18n-msg>
+    <div>[[labelSlogan]]</div>
   </template>
 
   <script type="text/javascript">
